@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shbabapour
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python
+- 📫 How to reach me shadi_atashgah@yahoo.com
